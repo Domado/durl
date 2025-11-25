@@ -1,2 +1,9 @@
-# durl
-🌩 High speed, advanced, fast, cross platform HTTP Request library, made by Daiso
+# durl 🌩
+
+High speed, advanced, fast, cross platform HTTP Request library, made by Daiso.
+
+## Building
+
+```bash
+make
+```
